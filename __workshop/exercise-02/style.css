@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    font-family: 'Poppins';
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 2px;
+    font-size: 20px;
+}
+
+a:hover {
+    color: grey;
+    transition: .2s;
+    opacity: .5;
+}
+
+img:hover {
+    color: grey;
+    transition: .2s;
+    opacity: .5;
+}
+
+.navBar {
+    background-color: #3a3633;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}

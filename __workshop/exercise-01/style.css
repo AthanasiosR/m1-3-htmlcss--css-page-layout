@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+}
+
+.navBar {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}

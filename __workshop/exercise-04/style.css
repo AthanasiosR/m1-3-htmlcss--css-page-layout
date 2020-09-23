@@ -1,0 +1,56 @@
+body {
+    font-family: 'Poppins';
+}
+
+
+.divOne {
+    display: flex;
+    justify-content: center;
+}
+
+.mainTitle {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    max-width: 300px;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+.divTwo {
+    display: flex;
+    justify-content: center;
+}
+
+.subTitle {
+    font-size: 30px;
+    line-height: 50%;
+}
+
+.divThree{
+    display: flex;
+    justify-content: center;
+}
+
+.subTitleTwo {
+    max-width: 35%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.divFour {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a::after {
+    content: '>';
+    margin-left: 5px;
+}
+
